@@ -1,4 +1,4 @@
-package com.crdroid.faceunlock.vendorimpl;
+package org.pixelexperience.faceunlock.vendorimpl;
 
 import com.megvii.facepp.sdk.Lite;
 
